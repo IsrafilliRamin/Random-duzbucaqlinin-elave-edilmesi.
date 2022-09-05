@@ -1,0 +1,36 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    overflow: hidden;
+}
+/* container start */
+.container {
+    position: relative !important;
+    
+}
+/* container end */
+
+/* button clikc start */
+button {
+    margin: 0.5vw;
+    padding: 1vw 2vw;
+    border-radius: 2vw;
+    cursor: pointer;
+    border: none;
+    background : linear-gradient(90deg, #861818, #855151);
+    color: #fff;
+}
+
+button:hover{
+    background : linear-gradient(90deg, #0e8c56, #6aeb4c)
+}
+/* button clikc end */
+
+/* span start */
+.span {
+    cursor: pointer;
+    position: absolute !important;
+   
+}
+/* span end */
